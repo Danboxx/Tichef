@@ -1,0 +1,488 @@
+
+[
+    {
+       "nom":"spaghetti bolognaise",
+       "img":"https://images.pexels.com/photos/4349774/pexels-photo-4349774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+       "difficulte":"moyenne",
+       "tempPreparation":"40 min",
+       "tempCuisson":"1h 20min",
+       "portions":4,
+       "ingredients":[
+          {
+             "quantite":500,
+             "unite":"g",
+             "aliment":"de spaghetti"
+          },
+          {
+             "quantite":500,
+             "unite":"g",
+             "aliment":"de viande hachée"
+          },
+          {
+             "quantite":2,
+             "unite":"gousse",
+             "aliment":"d'ail"
+          },
+          {
+             "quantite":1,
+             "unite":"g",
+             "aliment":"carotte"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"oignon"
+          },
+          {
+             "quantite":1,
+             "unite":"branche",
+             "aliment":"de céleris"
+          },
+          {
+             "quantite":850,
+             "unite":"g",
+             "aliment":"de tomates (fraiches ou en boîte)"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à soupe",
+             "aliment":"de concentré de tomate"
+          },
+          {
+             "quantite":1,
+             "unite":"cube",
+             "aliment":"de bouillon de volaille"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à soupe",
+             "aliment":"d'huile d'olive"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de sel et de poivre"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de sucre"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Hachez l'ail, l'oignon, puis coupez la carotte et le céleri en petits dés (enlevez les principales nervures du céleri)."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Faites chauffer l'huile dans une casserole assez grande. Faites revenir l'ail, l'oignon, la carotte et le céleri à feu doux pendant 5 min en remuant."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Augmenter la flamme, puis ajoutez le boeuf. Faites brunir et remuez de façon à ce que la viande ne fasse pas de gros paquets. "
+          },
+          {
+             "numeroEtape":4,
+             "descEtape":"Ajoutez le bouillon, les tomates préalablement coupées assez grossièrement, le sucre et le persil haché. Portez à ébullition."
+          },
+          {
+             "numeroEtape":5,
+             "descEtape":"Baisser ensuite le feu et laissez mijoter à couvert 1h à 1h30, de façon à ce que le vin s'évapore."
+          },
+          {
+             "numeroEtape":6,
+             "descEtape":"Faites cuire les spaghetti, puis mettez-les dans un plat."
+          },
+          {
+             "numeroEtape":7,
+             "descEtape":"Ajoutez la sauce bolognaise."
+          }
+       ],
+       "saison":"toutes saisons"
+    },
+    {
+       "nom":"Chili con carne",
+       "img":"https://images.pexels.com/photos/6358974/pexels-photo-6358974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+       "difficulte":"facile",
+       "tempPreparation":"20 min",
+       "tempCuisson":"2h",
+       "portions":6,
+       "ingredients":[
+          {
+             "quantite":500,
+             "unite":"g",
+             "aliment":"de viande hachée (bœuf ou porc)"
+          },
+          {
+             "quantite":2,
+             "unite":"gousse",
+             "aliment":"d'ail"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"oignon"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"poivron rouge"
+          },
+          {
+             "quantite":1,
+             "unite":"boite",
+             "aliment":"de haricots rouges"
+          },
+          {
+             "quantite":850,
+             "unite":"g",
+             "aliment":"de tomates en conserve"
+          },
+          {
+             "quantite":2,
+             "unite":"cuillères à soupe",
+             "aliment":"de poudre de chili"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de cumin en poudre"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de coriandre en poudre"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à soupe",
+             "aliment":"d'huile d'olive"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de sel et de poivre"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Hacher l'ail et l'oignon, couper le poivron en petits dés."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Faire chauffer l'huile dans une grande casserole et faire revenir l'ail, l'oignon et le poivron pendant 5 minutes."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Ajouter la viande hachée et faire cuire jusqu'à ce qu'elle soit bien dorée."
+          },
+          {
+             "numeroEtape":4,
+             "descEtape":"Ajouter les tomates en conserve, les haricots rouges égouttés, la poudre de chili, le cumin, la coriandre, le sel et le poivre. Bien mélanger."
+          },
+          {
+             "numeroEtape":5,
+             "descEtape":"Laisser mijoter à feu doux pendant 2 heures."
+          },
+          {
+             "numeroEtape":6,
+             "descEtape":"Servir chaud avec du riz ou des tortillas."
+          }
+       ],
+       "saison":"toutes saisons"
+    },
+    {
+       "nom":"Recette de salade de quinoa et de légumes grillés",
+       "img":"https://images.pexels.com/photos/7226371/pexels-photo-7226371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+       "difficulte":"facile",
+       "tempPreparation":"20 min",
+       "tempCuisson":"25 min",
+       "portions":6,
+       "ingredients":[
+          {
+             "quantite":1,
+             "unite":"tasse",
+             "aliment":"de quinoa"
+          },
+          {
+             "quantite":2,
+             "unite":"tasses",
+             "aliment":"d'eau"
+          },
+          {
+             "quantite":2,
+             "unite":"",
+             "aliment":"poivrons rouges"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"courgette"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"aubergine"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"oignon rouge"
+          },
+          {
+             "quantite":2,
+             "unite":"gousses",
+             "aliment":"d'ail'"
+          },
+          {
+             "quantite":2,
+             "unite":"cuillères à soupe",
+             "aliment":"d'huile d'olive"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de sel et de poivre"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"citron"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Préchauffez le four à 200°C."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Dans une casserole, faites cuire le quinoa dans l'eau bouillante pendant 15 minutes."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Coupez les poivrons, la courgette, l'aubergine et l'oignon en gros morceaux."
+          },
+          {
+             "numeroEtape":4,
+             "descEtape":"Dans un bol, mélangez l'huile d'olive, l'ail, le sel et le poivre."
+          },
+          {
+             "numeroEtape":5,
+             "descEtape":"Badigeonnez les légumes avec le mélange d'huile d'olive et mettez-les sur une plaque à pâtisserie."
+          },
+          {
+             "numeroEtape":6,
+             "descEtape":"Faites cuire les légumes pendant 25 minutes en les retournant à mi-cuisson."
+          },
+          {
+             "numeroEtape":7,
+             "descEtape":"Ajoutez le jus de citron et les légumes grillés au quinoa cuit et mélangez bien."
+          },
+          {
+             "numeroEtape":8,
+             "descEtape":"Servez chaud ou froid."
+          }
+       ],
+       "saison":"Été"
+    },
+    {
+       "nom":"Pot-au-feu",
+       "img":"https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/813/pot-au-feu-recette-AdobeStock_289334392.jpg",
+       "difficulte":"moyenne",
+       "tempPreparation":"20 min",
+       "tempCuisson":"3h",
+       "portions":6,
+       "ingredients":[
+          {
+             "quantite":1.5,
+             "unite":"kg",
+             "aliment":"de viande à pot-au-feu (gîte, macreuse, plat de côte)"
+          },
+          {
+             "quantite":4,
+             "unite":"",
+             "aliment":"carottes"
+          },
+          {
+             "quantite":4,
+             "unite":"",
+             "aliment":"poireaux"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"navet"
+          },
+          {
+             "quantite":2,
+             "unite":"",
+             "aliment":"oignons"
+          },
+          {
+             "quantite":1,
+             "unite":"branche",
+             "aliment":"de céleri"
+          },
+          {
+             "quantite":1,
+             "unite":"bouquet",
+             "aliment":"de persil"
+          },
+          {
+             "quantite":1,
+             "unite":"feuille",
+             "aliment":"de laurier"
+          },
+          {
+             "quantite":10,
+             "unite":"",
+             "aliment":"grains de poivre"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de gros sel"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Peler et laver les légumes."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Dans une grande marmite, mettre la viande et couvrir d'eau froide."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Ajouter les légumes entiers, le bouquet de persil, le poivre en grains et le laurier."
+          },
+          {
+             "numeroEtape":4,
+             "descEtape":"Saler légèrement et porter à ébullition."
+          },
+          {
+             "numeroEtape":5,
+             "descEtape":"Réduire le feu et laisser mijoter à feu doux pendant environ 3 heures."
+          },
+          {
+             "numeroEtape":6,
+             "descEtape":"Retirer les légumes et la viande et les disposer dans un plat."
+          },
+          {
+             "numeroEtape":7,
+             "descEtape":"Servir le bouillon chaud accompagné des légumes et de la viande."
+          }
+       ],
+       "saison":"hiver"
+    },
+    {
+       "nom":"Potage Butternut",
+       "img":"https://www.elle-et-vire.com/uploads/cache/1920x1200/uploads/recip/recipe/350/5e70e39341bc7_2",
+       "difficulte":"facile",
+       "tempPreparation":"15 min",
+       "tempCuisson":"45 min",
+       "portions":4,
+       "ingredients":[
+          {
+             "quantite":1,
+             "unite":"kg",
+             "aliment":"de courge butternut"
+          },
+          {
+             "quantite":2,
+             "unite":"",
+             "aliment":"oignons"
+          },
+          {
+             "quantite":2,
+             "unite":"gousses",
+             "aliment":"d'ail"
+          },
+          {
+             "quantite":1,
+             "unite":"L",
+             "aliment":"de bouillon de légumes"
+          },
+          {
+             "quantite":2,
+             "unite":"cuillères à soupe",
+             "aliment":"d'huile d'olive"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de cumin"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de cannelle"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de coriandre moulue"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de sel et de poivre"
+          },
+          {
+             "quantite":2,
+             "unite":"cuillères à soupe",
+             "aliment":"de crème fraîche"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"pincée de muscade"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Couper la courge en deux dans le sens de la longueur et retirer les graines à l'aide d'une cuillère."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Couper la courge en cubes de taille moyenne."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Hacher les oignons et l'ail."
+          },
+          {
+             "numeroEtape":4,
+             "descEtape":"Faire chauffer l'huile dans une grande casserole et ajouter les oignons et l'ail. Les faire revenir jusqu'à ce qu'ils soient translucides."
+          },
+          {
+             "numeroEtape":5,
+             "descEtape":"Ajouter la courge et les épices, et faire cuire pendant 5 minutes en remuant régulièrement."
+          },
+          {
+             "numeroEtape":6,
+             "descEtape":"Ajouter le bouillon de légumes et porter à ébullition. Réduire le feu, couvrir et laisser mijoter pendant environ 30 minutes, jusqu'à ce que la courge soit tendre."
+          },
+          {
+             "numeroEtape":7,
+             "descEtape":"Retirer du feu et laisser refroidir légèrement. Mixer le potage jusqu'à l'obtention d'une consistance lisse."
+          },
+          {
+             "numeroEtape":8,
+             "descEtape":"Ajouter la crème fraîche et la muscade, et remuer jusqu'à ce que le potage soit bien mélangé."
+          },
+          {
+             "numeroEtape":9,
+             "descEtape":"Réchauffer le potage avant de servir, en ajoutant éventuellement un peu d'eau ou de bouillon pour obtenir la consistance souhaitée."
+          }
+       ],
+       "saison":"automne"
+    }
+ ]
+ 
+ 

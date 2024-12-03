@@ -1,0 +1,109 @@
+/* Définition des styles pour le corps de la page */
+body {
+    font-family: Arial, sans-serif; /* Police de caractères */
+    margin: 0; /* Supprime les marges par défaut */
+    padding: 0; /* Supprime les espaces intérieurs par défaut */
+    background-color: #f8f8f8; /* Couleur de fond */
+}
+
+/* Définition des styles pour l'en tête */
+header {
+    display: flex; /* Utilisation de Flexbox pour la disposition */
+    justify-content: space-between; /* Espacement entre les éléments */
+   align-items: center; /* Alignement vertical au centre */
+    padding: 10px 20px; /* Espaces intérieurs */
+    background-color: #fff; /* Couleur de fond */
+    border-bottom: 1px solid #ddd; /* Bordure inférieure */
+}
+
+/* Définition des styles pour le logo */
+.logo {
+    font-size: 1.5px; /* Taille de la police */
+    color: #e64949; /* Couleur du texte */
+}
+
+/* Définition des styles pour la barre de recherche */
+.search-bar input {
+    padding: 5px; /* Espaces intérieurs */
+    border: 1px solid #ddd; /* Bordure */
+    border-radius: 4px; /* Coins arrondis */
+}
+
+/* Définition des styles pour les boutons d'actions utilisateur */
+.user-actions button {
+    margin-left: 10px; /* Marge à gauche */
+    padding: 5px 10px; /* Espaces intérieurs */
+    border: 1px solid #ddd; /* Bordure */
+    border-radius: 4px; /* Coins arrondis */
+    background-color: #e64949; /* Couleur de fond */
+    color: #fff; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+}
+
+/* Définition des styles pour la navigation */
+nav ul {
+    display: flex; /* Utilisation de Flexbox pour la disposition */
+    justify-content: center; /* Centrage des éléments */
+    list-style: none; /* Suppression des puces par défaut */
+    padding: 0; /* Suppression des espaces intérieurs par défaut */
+    background-color: #fff; /* Couleur de fond */
+    border-bottom: 1px solid #ddd; /* Bordure inférieure */
+}
+
+/* Définition des styles pour les éléments de la liste de navigation */
+nav ul li {
+    margin: 0 20px; /* Marges horizontales */
+    padding: 10px 0; /* Espaces intérieurs verticaux */
+    color: #e64949; /* Couleur du texte */
+}
+
+/* Définition des styles pour la section principale */
+main {
+    padding: 20px; /* Espaces intérieurs */
+}
+
+/* Définition des styles pour les recettes */
+.recipe {
+    display: flex; /* Utilisation de Flexbox pour la disposition */
+    justify-content: space-between; /* Espacement entre les éléments */
+}
+
+/* Définition des styles pour les détails de la recette */
+.recipe-details {
+    flex: 2; /* Proportion de l'espace occupé */
+}
+
+/* Définition des styles pour l'image de la recette */
+.recipe-image {
+    flex: 1; /* Proportion de l'espace occupé */
+    margin-left: 20px; /* Marge à gauche */
+}
+
+/* Définition des styles pour l'image de la recette */
+.recipe-image img {
+    width: 50%; /* Largeur de l'image */
+    border-radius: 10px; /* Coins arrondis */
+    height: 300px;
+    object-fit: cover;
+
+}
+
+/* Définition des styles pour les titres de niveau 1 */
+h1 {
+    color: #e64949; /* Couleur du texte */
+}
+
+/* Définition des styles pour les titres de niveau 2 */
+h2 {
+    color: #e64949; /* Couleur du texte */
+}
+
+/* Définition des styles pour les ingrédients et les étapes */
+.ingredients, .steps {
+    margin-top: 20px; /* Marge supérieure */
+}
+
+/* Définition des styles pour les listes d'ingrédients et d'étapes */
+.ingredients ul, .steps ol {
+    padding-left: 20px; /* Espaces intérieurs à gauche */
+}
